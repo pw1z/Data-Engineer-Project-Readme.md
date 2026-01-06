@@ -6,3 +6,5 @@ I've a Readme (obviously) and a more detailed Word doc, a somewhat decent viewin
 
 Or view the soft copy upload here, same moniker.
 
+**Also note**, the Word doc is not fully detailed content but enough for a reader to understand.
+
